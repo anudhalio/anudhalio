@@ -27,6 +27,14 @@ An end-to-end data analytics project exploring e-commerce sales performance, cus
 
 [View Project on GitHub](https://github.com/anudhalio/Ecommerce-Sales-Customer-Analytics)
 
+### ABG Motors – Market Entry Analysis for India
+
+A market entry analysis project evaluating the Indian automobile market, customer demographics, purchasing behaviour, and business opportunities for ABG Motors.
+
+**Tools:** Microsoft Excel, Tableau, Python, Machine Learning
+
+[View Project on GitHub](https://github.com/anudhalio/ABG-Motors-Market-Entry-Analysis-for-India)
+
 ## Currently Learning
 - Advanced SQL
 - Data Visualization
