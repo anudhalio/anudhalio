@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anureet Kaur 
 
-<!--
-**anudhalio/anudhalio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Final-Year Artificial Intelligence & Machine Learning Student  
+ Aspiring Data Analyst | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Data Analytics, Machine Learning, and Artificial Intelligence.
+- Building practical projects using real-world datasets.
+- Continuously improving my analytical, technical, and problem-solving skills.
+- Currently strengthening my skills in Excel, SQL, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Data Analytics:** Microsoft Excel, Power BI
+- **Database:** MySQL, SQL
+- **Programming:** Python
+- **Machine Learning:** Scikit-learn, NLP
+- **Tools:** Jupyter Notebook, Tableau, Streamlit
+
+## Featured Project
+
+### E-commerce Customer Behaviour & Sales Intelligence
+
+An end-to-end data analytics project exploring e-commerce sales performance, customer behaviour, and purchasing patterns.
+
+**Tools:** Excel, MySQL, SQL, Power BI
+
+[View Project on GitHub](https://github.com/anudhalio/Ecommerce-Sales-Customer-Analytics)
+
+## Currently Learning
+- Advanced SQL
+- Data Visualization
+- Business Intelligence
+- Machine Learning
+
+## Connect With Me
+
+- GitHub: [@anudhalio](https://github.com/anudhalio)
