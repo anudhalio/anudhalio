@@ -35,6 +35,23 @@ A market entry analysis project evaluating the Indian automobile market, custome
 
 [View Project on GitHub](https://github.com/anudhalio/ABG-Motors-Market-Entry-Analysis-for-India)
 
+
+## AI & Machine Learning Projects
+
+### AI Career Recommendation System
+
+An intelligent career recommendation application that analyzes users' skills, interests, educational background, and aptitude to suggest suitable career paths using Machine Learning and NLP techniques.
+
+**Tools:** Python, Machine Learning, NLP, TF-IDF, Cosine Similarity, Streamlit
+
+**Key Features:**
+- Personalized career recommendations
+- Skill and interest matching
+- NLP-based similarity analysis
+- Interactive Streamlit interface
+
+[View Project on GitHub](https://github.com/anudhalio/AI-Carrer-Recommendation-System)
+
 ## Currently Learning
 - Advanced SQL
 - Data Visualization
